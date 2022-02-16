@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/geovannapinheiro/aut-cypress/issues"
   },
-  "homepage": "https://github.com/geovannapinheiro/aut-cypress#readme"
+  "homepage": "https://github.com/geovannapinheiro/aut-cypress#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
 }
